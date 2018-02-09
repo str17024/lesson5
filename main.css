@@ -81,13 +81,13 @@ main figure img {
 section {
     font-size: 1.2rem;
     color: black;
-    float: right;
+    float: center;
  
 
 }
 
 section forcast {
-    color: green;
+    text-color: green;
 }
 
 article p.town-article img {  /* This structure refers to img elements that are the posterity of paragraph elements within artcle elements */
