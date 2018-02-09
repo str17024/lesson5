@@ -89,6 +89,8 @@ section {
 
 section forcast {
     text-color: green;
+    float: center;
+    text-align: center;
   
 }
 section forcast h3 {
