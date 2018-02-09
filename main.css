@@ -11,7 +11,11 @@ header, nav, main, footer { /* the comma means apply the following CSS declarati
   /* Declare the maximum width and other main element rules to limit the stretch on wide views */
 }
 
-header {}
+header {
+    border-size: 2px;
+  
+
+}
 h1 {
     font-size:  5.4rem;
     color:  #0da4c3 ;
