@@ -45,16 +45,17 @@ main {}
 main h2 {
     font-size: 3.5rem;
     color: #bdd967;
-    float: right;
+    
 }
 main figure { 
     margin: 0 0 .2rem 2%;
-    width:96%;
+    width:20%;
     float: left;
 
 }
 main figure img { 
     width: 10%;
+    float: left;
 }
 
 section {
