@@ -15,6 +15,7 @@ header {}
 h1 {
     font-size:  5.4rem  (rem is a unit of measure) ;
     color:  #0da4c3 ;
+    float: right
 }
 header img {
     width: * *;
@@ -26,7 +27,11 @@ h2 {
     text-align: center;
     border-bottom: 1px solid #bbb;
 }
-header .subheading {}
+header .subheading {
+    font-size: 3.4rem;
+    color: #a72170;
+    float: center;
+}
 
 nav {}
 nav button {}
