@@ -4,10 +4,17 @@
 
 body {
   font-size: 16px;
+  margin:0;
+  padding:0;
+  font-family: arial, helvetica, sans-serif
+
   /* Declare the base font-family - from google font api or other */
 }
 
-header, nav, main, footer { /* the comma means apply the following CSS declarations to all of the listed elements */
+header, nav, main, footer { 
+   color: green;
+  
+  /* the comma means apply the following CSS declarations to all of the listed elements */
   /* Declare the maximum width and other main element rules to limit the stretch on wide views */
 }
 
@@ -48,7 +55,7 @@ nav ul li.active a {}
 nav ul li a:hover {}
 
 main {
-   
+   border size: 2px;
     
 }
 main h2 {
