@@ -42,7 +42,11 @@ nav ul li.active a {}
 nav ul li a:hover {}
 
 main {}
-main h2 {}
+main h2 {
+    font-size: 8.9rem;
+    color: #bdd967;
+    float: right;
+}
 main figure { margin: 0 0 .2rem 2%; width:96%; }
 main figure img { width: 100%; }
 
