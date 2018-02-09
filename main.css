@@ -15,15 +15,15 @@ header {}
 h1 {
     font-size:  5.4rem  (rem is a unit of measure) ;
     color:  #0da4c3 ;
-    float: right
+    float: center;
 }
 header img {
-    width: * *;
+    width: 10%;
     height: auto;
     float: left;
 }
 h2 {
-    font-size: /* 5.4rem */;
+    font-size:  3.4rem ;
     text-align: center;
     border-bottom: 1px solid #bbb;
 }
