@@ -27,7 +27,7 @@ header img {
 h2 {
     font-size:  3.4rem ;
     text-align: center;
-    border-bottom: 1px solid #bbb;
+    
 }
 header .subheading {
     font-size: 3.4rem;
@@ -44,7 +44,7 @@ nav ul li.active a {}
 nav ul li a:hover {}
 
 main {
-    border: color #fff;
+   
     
 }
 main h2 {
