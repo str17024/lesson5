@@ -12,11 +12,19 @@ header, nav, main, footer { /* the comma means apply the following CSS declarati
 }
 
 header {}
-header h1 {}
+h1 {
+    font-size:  5.4rem  (rem is a unit of measure) ;
+    color:  #0da4c3 ;
+}
 header img {
     width: * *;
     height: auto;
-    float: right;
+    float: left;
+}
+h2 {
+    font-size: /* 5.4rem */;
+    text-align: center;
+    border-bottom: 1px solid #bbb;
 }
 header .subheading {}
 
