@@ -13,7 +13,11 @@ header, nav, main, footer { /* the comma means apply the following CSS declarati
 
 header {}
 header h1 {}
-header img {}
+header img {
+    width: * *;
+    height: auto;
+    float: right;
+}
 header .subheading {}
 
 nav {}
