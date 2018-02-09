@@ -43,7 +43,10 @@ nav ul li a {}
 nav ul li.active a {}
 nav ul li a:hover {}
 
-main {}
+main {
+    border: color #fff;
+    
+}
 main h2 {
     font-size: 3.5rem;
     color: #bdd967;
