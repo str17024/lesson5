@@ -77,7 +77,9 @@ main figure {
 }
 main figure img { 
     float: left;
-    width: 20%;
+    width: 40%;
+    height: 50em;
+    padding: 3em;
 }
 
 section {
