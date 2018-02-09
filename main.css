@@ -12,8 +12,8 @@ header, nav, main, footer { /* the comma means apply the following CSS declarati
 }
 
 header {}
-header h1 {}
-header img {}
+header h1 {float: right}
+header img {float: left}
 header .subheading {}
 
 nav {}
