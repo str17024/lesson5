@@ -20,9 +20,9 @@ header, nav, main, footer {
 }
 
 header {
-    border-size: 2px;
+    border-size: 6px;
     border color: black;
-    background-color: blue; 
+    background-color: gray; 
   
 
 }
