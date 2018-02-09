@@ -58,7 +58,8 @@ nav ul li.active a {}
 nav ul li a:hover {}
 
 main {
-   border size: 2px;
+   border-size: 2px;
+   border-style: solid;
     
 }
 main h2 {
