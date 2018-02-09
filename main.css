@@ -43,14 +43,27 @@ nav ul li a:hover {}
 
 main {}
 main h2 {
-    font-size: 8.9rem;
+    font-size: 3.5rem;
     color: #bdd967;
     float: right;
 }
-main figure { margin: 0 0 .2rem 2%; width:96%; }
-main figure img { width: 100%; }
+main figure { 
+    margin: 0 0 .2rem 2%;
+    width:96%;
+    float: left;
 
-section {}
+}
+main figure img { 
+    width: 10%;
+}
+
+section {
+    font-size: 1.2rem;
+    color: black;
+    float: right;
+ 
+
+}
 
 article p.town-article img {  /* This structure refers to img elements that are the posterity of paragraph elements within artcle elements */
   width: ???; /* fill the page in the small/phone view */
