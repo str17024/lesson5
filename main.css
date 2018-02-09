@@ -80,7 +80,7 @@ main figure img {
 }
 
 section {
-    font-size: 1.2rem;
+    font-size: 2.5rem;
     text-color: black;
     float: center;
  
@@ -88,7 +88,7 @@ section {
 }
 
 section forcast {
-    text-color: green;
+    text-color: red;
     float: center;
     text-align: center;
   
