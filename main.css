@@ -89,6 +89,10 @@ section {
 
 section forcast {
     text-color: green;
+  
+}
+section forcast h3 {
+    text-color: yellow;
 }
 
 article p.town-article img {  /* This structure refers to img elements that are the posterity of paragraph elements within artcle elements */
